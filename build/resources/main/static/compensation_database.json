@@ -1,0 +1,27 @@
+[
+  {
+    "employeeId" : "16a596ae-edd3-4847-99fe-c4518e82c86f",
+    "salary" : "200000",
+    "effectiveDate" : "01-01-2020"
+  },
+  {
+    "employeeId" : "b7839309-3348-463b-a7e3-5de1c168beb3",
+    "salary" : "100000",
+    "effectiveDate" : "03-17-2021"
+  },
+  {
+    "employeeId" : "03aa1462-ffa9-4978-901b-7c001562cf6f",
+    "salary" : "120000",
+    "effectiveDate" : "09-21-2019"
+  },
+  {
+    "employeeId" : "62c1084e-6e34-4630-93fd-9153afb65309",
+ 	"salary" : "90000",
+    "effectiveDate" : "06-11-2022"
+  },
+  {
+    "employeeId" : "c0c2293d-16bd-4603-8e08-638a9d18b22c",
+ 	"salary" : "150000",
+    "effectiveDate" : "04-19-2018"
+  }
+]
